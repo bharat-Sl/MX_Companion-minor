@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138989746794",
+    "project_id": "mental-health-tracker-8ef06",
+    "storage_bucket": "mental-health-tracker-8ef06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138989746794:android:482f31e09c1f703f91a813",
+        "android_client_info": {
+          "package_name": "com.vigit.mx_companion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138989746794-fo7lko16ccq70dqgc3hfqsp13e8fva0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vigit.mx_companion",
+            "certificate_hash": "fe68bf1d3f0532db76377fbc77793c2faa450580"
+          }
+        },
+        {
+          "client_id": "138989746794-6p0m081ecusc5kkup3qg6eoudroe5rbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv5BgOjN2cs6785yzyTrlqmuaX_7zWdv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138989746794-6p0m081ecusc5kkup3qg6eoudroe5rbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
